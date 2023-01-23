@@ -14,3 +14,5 @@ python convert_features_to_kmeans.py
 python train.py
 python clean_checkpoint.py
 ```
+
+SVC 音色泄漏问题解决方案请参考 [Fish Diffusion Chinese Hubert Soft](https://github.com/fishaudio/fish-diffusion/blob/main/fish_diffusion/feature_extractors/chinese_hubert.py)
